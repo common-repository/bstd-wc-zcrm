@@ -1,0 +1,11 @@
+{
+    "name": "boostedcrm/bc_inventory_connector",
+    "description": "WooCommerce Zoho Inventory Integration plugin by Boosted CRM",
+    "license": "gpl-2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BCRM\\BC_INVENTORY_CONNECTOR\\": "includes/"
+        }
+    }
+}
